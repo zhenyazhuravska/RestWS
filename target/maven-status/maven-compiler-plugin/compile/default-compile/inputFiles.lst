@@ -1,0 +1,11 @@
+/Users/zhenyazhuravska/IdeaProjects/restws/src/main/java/org/restws/service/LibraryService.java
+/Users/zhenyazhuravska/IdeaProjects/restws/src/main/java/org/restws/client/Client.java
+/Users/zhenyazhuravska/IdeaProjects/restws/src/main/java/org/restws/model/Book.java
+/Users/zhenyazhuravska/IdeaProjects/restws/src/main/java/org/restws/database/DatabaseClass.java
+/Users/zhenyazhuravska/IdeaProjects/restws/src/main/java/org/restws/resources/BookResource.java
+/Users/zhenyazhuravska/IdeaProjects/restws/src/main/java/org/restws/model/Library.java
+/Users/zhenyazhuravska/IdeaProjects/restws/src/main/java/org/restws/resources/LibraryResource.java
+/Users/zhenyazhuravska/IdeaProjects/restws/src/main/java/org/restws/exception/NotFound.java
+/Users/zhenyazhuravska/IdeaProjects/restws/src/main/java/org/restws/service/BookService.java
+/Users/zhenyazhuravska/IdeaProjects/restws/src/main/java/org/restws/bean/FilterBean.java
+/Users/zhenyazhuravska/IdeaProjects/restws/src/main/java/org/restws/model/ErrorMessage.java

@@ -1,0 +1,11 @@
+org/restws/client/Client.class
+org/restws/resources/LibraryResource.class
+org/restws/database/DatabaseClass.class
+org/restws/model/ErrorMessage.class
+org/restws/resources/BookResource.class
+org/restws/exception/NotFound.class
+org/restws/model/Book.class
+org/restws/model/Library.class
+org/restws/service/LibraryService.class
+org/restws/bean/FilterBean.class
+org/restws/service/BookService.class
